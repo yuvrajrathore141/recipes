@@ -15,16 +15,41 @@ body{
     margin: 10px auto;
 }
 .para{
-    color: #FF4B3E;
+    color: #FF7E6B;
     width: auto;
     height: auto;
     font-size: 20px;
 }
 .em{
-    color: #6A3E37;
+    color: #44AF69;
 }
 .recipe-list{
-    color: #698F3F;
+    color: #5C80BC;
     width: auto;
     height: auto;
+}
+.para.quote{
+    color:#5C80BC
+}
+a:link {
+    color: #5C80BC;
+    text-decoration: none;
+    background-color: transparent;
+    font-size: 20px;
+    margin-right: 20px;
+}
+a:visited {
+    color: #5C80BC;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: #031A6B;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: #5C80BC;
+    background-color: transparent;
+    text-decoration: underline;
 }

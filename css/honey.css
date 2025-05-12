@@ -1,0 +1,74 @@
+body{
+    font-family: sans-serif, serif;
+    background-color: #D5DFE5;
+    margin-left: 15px;
+
+}
+.title{
+    color: #EE9480;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    width: 500px;
+    height: 35px;
+    border: 2px solid #000022;
+    margin-left: 200px;
+}
+.para{
+    color: #6F6866;
+    font-size: 20px;
+    text-align: center;
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: auto;
+    border: #000022 solid 2px;
+}
+.subtitle{
+    color: #8499B1;
+    font-size: 25px;
+    text-align: left;
+    font-weight: bold;
+    width: 500px;
+    height: 30px;
+}
+.recipe-list{
+    color: #6F6866;
+    font-size: 20px;
+    text-align: left;
+}
+.sub{
+    color: #6F6866;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.end{
+    margin-bottom: 20px;
+}
+a:link {
+    color: #8499B1;
+    text-decoration: none;
+    background-color: transparent;
+    font-size: 20px;
+    margin-right: 20px;
+}
+a:visited {
+    color: #8499B1;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: #000022;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: #EE9480;
+    background-color: transparent;
+    text-decoration: underline;
+}
