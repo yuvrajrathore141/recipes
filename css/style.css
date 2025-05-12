@@ -1,0 +1,37 @@
+body{
+    background-color: #E2E2E2;
+    font-family: Arial, sans-serif;
+    display: block;
+    margin: 30px;
+}
+.title{
+    color: #384D48;
+    width: 500px;
+    height: 35px;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+    border: 2px #6A3E37 solid;
+    margin: 10px auto;
+}
+.para{
+    color: #FF4B3E;
+    width: auto;
+    height: auto;
+    font-size: 20px;
+}
+.em{
+    color: #6A3E37;
+}
+.recipe-list{
+    color: #698F3F;
+    width: auto;
+    height: auto;
+}
+.img{
+    border: 2px #6A3E37 solid;
+    margin: 10px auto;
+    display: inline-block;
+    text-align: center;
+    margin-left: 50px;
+}
