@@ -28,10 +28,3 @@ body{
     width: auto;
     height: auto;
 }
-.img{
-    border: 2px #6A3E37 solid;
-    margin: 10px auto;
-    display: inline-block;
-    text-align: center;
-    margin-left: 50px;
-}
